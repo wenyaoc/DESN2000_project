@@ -1,4 +1,12 @@
-# DESN2000_project
+# DESN2000 Project Video
+
+### ELEC Eng stream H15B groupB
+
+Team members
+  * Chenglong Gao
+  * Liang Qiao
+  * Wenyao Chen
+  * Zhengda Zhong
 
 
 
