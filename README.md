@@ -1,6 +1,7 @@
 # DESN2000 Project Video
 
-### ELEC Eng stream H15C groupB
+<!-- ### ELEC Eng stream H15C groupB -->
+![group](https://github.com/wenyaoc/DESN2000_project/blob/main/repo%20image/group.JPG)
 
 Team members
   * Chenglong Gao
