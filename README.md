@@ -1,6 +1,6 @@
 # DESN2000 Project Video
 
-### ELEC Eng stream H15B groupB
+### ELEC Eng stream H15C groupB
 
 Team members
   * Chenglong Gao
