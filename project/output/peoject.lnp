@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\output\main.o"
+".\output\sensor.o"
+".\output\timer.o"
+".\output\lpc2400.o"
+--scatter ".\output\peoject.sct"
+--summary_stderr --info summarysizes -o .\output\peoject.axf
