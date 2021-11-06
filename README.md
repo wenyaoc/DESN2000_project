@@ -1,8 +1,9 @@
 # DESN2000 Project - ELEC Eng stream H15C group B
 
-<!-- ### ELEC Eng stream H15C groupB -->
-![group](https://github.com/wenyaoc/DESN2000_project/blob/main/repo%20image/project_name.JPG)
 
+
+## EE&T – ambient light sensor for seabird conservation project
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 ### Video:
 
