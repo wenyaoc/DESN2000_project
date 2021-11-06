@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\output\main.o"
+".\output\dac.o"
+".\output\timer.o"
+".\output\lpc2400.o"
+--scatter ".\output\light_gen.sct"
+--summary_stderr --info summarysizes -o .\output\light_gen.axf

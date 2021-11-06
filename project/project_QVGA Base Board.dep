@@ -1,0 +1,14 @@
+Dependencies for Project 'project', Target 'QVGA Base Board': (DO NOT MODIFY !)
+F (.\src\main.c)(0x61167124)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\Philips-o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+I (src\lpc24xx.h)(0x610CBF5B)
+I (src\timer.h)(0x610CBF5B)
+I (src\sensor.h)(0x610CBF5B)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x610C9555)
+F (.\src\sensor.c)(0x6116711B)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\Philips-o .\output\sensor.o --omf_browse .\output\sensor.crf --depend .\output\sensor.d)
+I (src\lpc24xx.h)(0x610CBF5B)
+I (D:\Keil\ARM\ARMCC\include\math.h)(0x51C7C554)
+F (.\src\sensor.h)(0x610CBF5B)()
+F (.\src\timer.c)(0x610CDA8D)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\Philips-o .\output\timer.o --omf_browse .\output\timer.crf --depend .\output\timer.d)
+I (src\lpc24xx.h)(0x610CBF5B)
+F (.\src\timer.h)(0x610CBF5B)()
+F (.\src\LPC2400.s)(0x610CBF5B)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\Philips-o .\output\lpc2400.o --depend .\output\lpc2400.d)
